@@ -1,4 +1,4 @@
-const numeroUm = document.getElementById('campo-um');
+const numeroUm = document.getElementById("campo-um");
 const numeroDois = document.getElementById('campo-dois');
 const form = document.getElementById('form');
 const message = document.querySelector('.message');
