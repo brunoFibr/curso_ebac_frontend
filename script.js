@@ -4,6 +4,7 @@ $(document).ready(function() {
     const tarefa = $('#tarefa').val();
     const novaTarefa = $(`<li>${tarefa}</li>`);
     $(novaTarefa).appendTo('ul');
+    $('#tarefa').val('');;
     });
 
 
