@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    padding-top: 100px;
+    padding-bottom: 5px;
+}
+.container {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.form {
+    margin-left: 110px;
+}
+
+form input {
+    display: block;
+    margin: 10px;
+    padding-right: 110px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
